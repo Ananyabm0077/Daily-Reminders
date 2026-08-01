@@ -145,6 +145,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ananya B.M**
 
 GitHub: https://github.com/your-username
