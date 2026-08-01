@@ -1,0 +1,38 @@
+body{
+
+font-family:Arial;
+background-color:#e377ec;
+text-align:center;
+margin:0;
+padding:20px;
+
+}
+
+input{
+padding:10px;
+margin:5px;
+
+}
+
+button{
+padding:10px 20px;
+background:green;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+li{
+list-style:none;
+background:white;
+width:350px;
+margin:10px auto;
+padding:10px;
+border-radius:5px;
+}
+.navbar{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
